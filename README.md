@@ -8,6 +8,7 @@ ANSE is not an open source software and this repo DOES NOT contain the source co
 # ANSE Training Agenda
 
 when: 2024-05-22, 9:00–15:00
+
 where: in-person at UBC FSC 2916 (CAWP Case Room)
 
 | when        | who     | what                                                                               |

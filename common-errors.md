@@ -1,8 +1,8 @@
 # ANSE Common Errors and Solutions
 
 ## Table of Contents
-- [Windows: Importer Error - Unable to Open Database File](#why-do-i-get-sqlite-error-14-unable-to-open-database-file-when-running-the-importer-on-windows)
-- [MacOS: "Damaged App" Error](#damaged-macos-app-cant-be-opened)
+- [Windows: Importer Error - Unable to Open Database File](#windows-sqlite-error-14-unable-to-open-database-file-when-running-importer)
+- [MacOS: "Damaged App" Error](#macos-damaged-macos-app-can-not-be-opened)
 
 ## Frequently Encountered Issues
 
@@ -22,7 +22,7 @@ Follow these steps to resolve the issue:
 
 ---
 
-### MacOS: "Damaged MacOS app can not be opened" 
+### MacOS: "Damaged MacOS app canånot be opened" 
 
 **Solution:**  
 To fix the issue, follow these steps:

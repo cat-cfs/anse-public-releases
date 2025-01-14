@@ -1,8 +1,8 @@
 # ANSE Common Errors and Solutions
 
 ## Table of Contents
-- [Windows: Importer Error - Unable to Open Database File](#windows-importer-error-unable-to-open-database-file)
-- [MacOS: "Damaged App" Error](#macos-damaged-app-error)
+- [Windows: Importer Error - Unable to Open Database File](#why-do-i-get-sqlite-error-14-unable-to-open-database-file-when-running-the-importer-on-windows)
+- [MacOS: "Damaged App" Error](#damaged-macos-app-cant-be-opened)
 
 ## Frequently Encountered Issues
 
@@ -58,7 +58,3 @@ You can perform optional signing to ensure better compatibility with your MacOS 
 If you're sending the app to others, it must be signed with a valid code-signing identity to avoid this issue for the recipient. Recipients can still run the app by:
 - Manually clearing the quarantine flag using the steps above.
 - Allowing the app to run through the _System Settings > Privacy & Security_ menu.
-
----
-
-This guide provides step-by-step solutions for common errors, ensuring even non-technical users can resolve issues efficiently.
